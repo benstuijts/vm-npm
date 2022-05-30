@@ -1,4 +1,4 @@
-const Navbar =  require('./Navbar');
+//const Navbar =  require('./Navbar');
 
 function vmNpm(string) {
     return string === 'WDS'
@@ -13,7 +13,7 @@ function sayNo() {
 }
 
 module.exports = {
-    Navbar,
+    //Navbar,
     vmNpm,
     sayHi,
     sayNo,
