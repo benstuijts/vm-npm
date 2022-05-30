@@ -1,0 +1,22 @@
+{
+  "name": "vmNpm",
+  "version": "1.0.0",
+  "description": "components for VM site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstuijts/vm-npm.git"
+  },
+  "author": "Ben Stuijts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benstuijts/vm-npm/issues"
+  },
+  "homepage": "https://github.com/benstuijts/vm-npm#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
